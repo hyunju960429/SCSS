@@ -18,4 +18,5 @@
 
 
 # "savePath": "~/css",  --> css폴더 안에 style.css가 생성된다.
+ - ~/css에서 ~은 style.scss를 의미 /는 style.scss가 있는 폴더를 의미 
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/bb44730d-0f90-478c-8b83-8effd0d3932e)
