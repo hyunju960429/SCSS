@@ -8,11 +8,10 @@
 
 
 #nesting(네스팅) -- 품다
-
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/2964ee49-ccd8-4a80-891b-8777b68fb4f9)
 
-# 저장경로
 
+# 저장경로
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/6dd2f8ef-db3f-4431-8124-a7ba25019b79)
 
-"savePath": null, :--> null이면 scss파일과 같은 위치에 style.css가 생성된다.
+# "savePath": null, :--> null이면 scss파일과 같은 위치에 style.css가 생성된다.
