@@ -14,4 +14,8 @@
 # 저장경로
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/6dd2f8ef-db3f-4431-8124-a7ba25019b79)
 
-# "savePath": null, :--> null이면 scss파일과 같은 위치에 style.css가 생성된다.
+# "savePath": null,  --> null이면 scss파일과 같은 위치에 style.css가 생성된다.
+
+
+# "savePath": "~/css",  --> css폴더 안에 style.css가 생성된다.
+![image](https://github.com/hyunju960429/SCSS/assets/145514544/bb44730d-0f90-478c-8b83-8effd0d3932e)
