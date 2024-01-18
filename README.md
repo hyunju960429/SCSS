@@ -23,3 +23,8 @@
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/bb44730d-0f90-478c-8b83-8effd0d3932e)
 
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/ea84a054-e06a-4202-b3c0-40fe1cd76ed2)
+
+
+# "savePath": "~/../css", --> style.scss있는 폴더(부모)와 같은 위치에 css폴더를 생성하고 그 css폴더안에 컴파일된 style.css폴더가 생긴다.
+
+![image](https://github.com/hyunju960429/SCSS/assets/145514544/efb6a9e2-09a3-4716-aa15-d63b86bd4785)
