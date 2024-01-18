@@ -21,3 +21,5 @@
  - ~/css에서 ~은 style.scss를 의미 /는 style.scss가 있는 폴더를 의미
  - scss파일과 같은 위치에 css 폴더가 생성되고 그 css 폴더안에 컴파일된 style.css가 생긴다.
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/bb44730d-0f90-478c-8b83-8effd0d3932e)
+
+![image](https://github.com/hyunju960429/SCSS/assets/145514544/ea84a054-e06a-4202-b3c0-40fe1cd76ed2)
