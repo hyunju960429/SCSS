@@ -41,3 +41,6 @@
 
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/f8f98328-5f48-47a5-98cf-ecfd1f04b48b)
 
+
+# scss파일에서 변수를 이요할때
+![image](https://github.com/hyunju960429/SCSS/assets/145514544/99a6cc5a-3be5-47b3-88da-4f67f49d655d)
