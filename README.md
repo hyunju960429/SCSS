@@ -28,3 +28,11 @@
 # "savePath": "~/../css", --> style.scss있는 폴더(부모)와 같은 위치에 css폴더를 생성하고 그 css폴더안에 컴파일된 style.css폴더가 생긴다.
 
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/efb6a9e2-09a3-4716-aa15-d63b86bd4785)
+
+
+# 압축버전 만들기
+![image](https://github.com/hyunju960429/SCSS/assets/145514544/dc2ee4e2-bcaa-491c-a393-476e0dd5a616)
+
+
+# 변수 만들기
+# scss에서 변수 --> $로 시작한다 $뒤에는 (영문, 숫자, -, _ )
