@@ -8,3 +8,14 @@
 
 # 변수의 중복을 막을 수 있는 방법 --> @use, @forward
 # @use --> 많이 사용
+# 구분하는 방법은 파일명을 이용한다.
+![image](https://github.com/hyunju960429/SCSS/assets/145514544/ffcce470-6cf6-4d55-b3c7-3ff33e403705)
+
+
+# as를 이용하여 별명을 붙일 수 있다
+![image](https://github.com/hyunju960429/SCSS/assets/145514544/6e365ca8-bb92-4b4d-beb0-fdda6e42c247)
+
+```
+@use './partials/var';  /* red; */
+@use './partials/var2 as v2'; /* blue */
+```
