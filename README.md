@@ -42,9 +42,10 @@
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/f8f98328-5f48-47a5-98cf-ecfd1f04b48b)
 
 
-# 인터폴레이션 방법
+# 인터폴레이션 방법 --> 보간법: 변수나 표현식을 문자열 내에 삽입하는 기능을 의미
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/99a6cc5a-3be5-47b3-88da-4f67f49d655d)
 
 ![image](https://github.com/hyunju960429/SCSS/assets/145514544/06d2f31c-eba5-4d77-81eb-39ac12186f64)
+
 
 
